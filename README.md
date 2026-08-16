@@ -2,6 +2,8 @@
 
 ## 1. Project Overview
 
+https://github.com/Sango-Tapiwa/INSY7314-ICE-Task-2.git 
+
 This project is a structured backend API developed using **Node.js and Express.js** for **INSY7314 Information Systems 3D – ICE Task 2**.
 
 For Activity 2, the original **Gadget** resource was changed to a **Movie** resource.
